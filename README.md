@@ -631,7 +631,7 @@ El objetivo principal de esta vista es mostrarnos solamente los productos con es
 
 ## Back up de la base de datos
 
-El respaldo de la base de datos se encuentra en un sólo script llamado 
+El respaldo de la base de datos se encuentra en un sólo script llamado [backup.sql]()
 
 ## Herramientas y tecnologias usadas
 
